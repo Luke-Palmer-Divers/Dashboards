@@ -28,8 +28,9 @@ JPEG of my first Excel dashboard analysing customer churn in a mobile phone comp
  - Used Company brand colors for theme. 
  - Created a navigator bar for report pages and used bookmarks. 
  - Explored hiring trends, active vs inactive employees, employees by department, and employees by age/ gender/ marital status/ salary.
- - Used slicers for individual performance review. We could see employment satisfaction over several key factors. 
+ - Used slicers for individual performance review. We could see employment satisfaction over several key factors.
+
+https://github.com/user-attachments/assets/759bddc4-38be-4341-baaf-f6851af7bc01
 
 
-https://github.com/user-attachments/assets/0fc33ce6-ebcd-40d0-bf65-868c15f0db13
 
