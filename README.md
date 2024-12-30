@@ -3,10 +3,10 @@ My dashboards made with Excel and Power BI
 
 
 ### Excel: _**Superstore Sales Dashboard**_
-🎥 Sales dashoboard using a well known e-commerce dataset. <br> 
+🎥 Sales dashboard using a well-known e-commerce dataset. <br> 
 I wanted to use a well-known brand for the logo and theme, so I used Walmart. <br>
 I used VLOOKUP to get unique customers and PIVOT TABLES to get the graphs and cards to interact with the year slicer together. <br>
-The dashbaord shows sales by: <br>
+The dashboard shows sales by: <br>
  - Segment as percentage <br>
  - Category <br>
  - Sub-category <br>
