@@ -11,7 +11,9 @@ My dashboards made with Excel and Power BI
 - Teljoy showed higher average visit seconds.
 - Direct traffic increased for Rentoza in February.
 
-https://github.com/user-attachments/assets/268442cd-2fac-463f-a08e-c9e600826d60
+https://github.com/user-attachments/assets/25cefeb9-69fb-47fe-8af3-743628f79633
+
+
 
 
 
